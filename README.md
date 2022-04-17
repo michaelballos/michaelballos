@@ -1,11 +1,17 @@
 # Michael Ballos
 
-- 🔭 I’m currently helping with Electa
-- 🌱 I’m currently learning (It never ends)
-- 👯 I’m looking to collaborate on something cool
-- 🤔 I’m looking for help with how to get a life outside of coding
-- 💬 Ask me about the meaning of life
-- 📫 How to reach me: ballos.michael@gmail.com or @michael_ballos on twitter or (316)-226-2223 --> (I'm rarely on my phone)
+- 🔭 I’m currently helping create Electa
+- 🌱 I’m learning (It never ends)
+- 💬 Ask me about my latest projects
+- 📫 How to reach me:
+   * ballos.michael@gmail.com --> Best option (Rarely on my phone) 
+   * (316)-226-2223 
+   
+   
+![michael's commits](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=michaelballos&theme=default&utcOffset=8)
+
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=vn7n24fzkq&theme=default)
+
 
 <div>
 <span align="center" markdown="1" style="display:table;">
