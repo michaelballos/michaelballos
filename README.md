@@ -48,7 +48,7 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a>
   
 <a href="https://nextjs.org/" target="_blank" rel="noreferrer">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/8/8e/Nextjs-logo.svg" alt="nextjs" width="40" height="40"/> 
+  <img src="https://raw.githubusercontent.com/michaelballos/michaelballos/ca531d515cb13eda36173a86097adbcfafac88b2/Nextjs-logo.svg" alt="nextjs" width="40" height="40"/> 
 </a> 
   
 <a href="https://nodejs.org" target="_blank" rel="noreferrer">
