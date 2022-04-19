@@ -11,7 +11,7 @@
 
 - 🌱 I’m currently learning [Graphql](https://graphql.org/) and [Prisma](https://www.prisma.io/)
 
-- ⚡ An example of my [dev skills](michaelballos.github.io)
+- ⚡ An example of my [dev skills](https://www.youtube.com/watch?v=dQw4w9WgXcQ&ab_channel=RickAstley)
 
 - 📫 Reach me at **ballos.michael@gmail.com**
 
