@@ -7,7 +7,7 @@
 
 - 👯 I’m currently collaborating on [Electa API](https://github.com/electa-api)
 
-- 👨‍💻 I’m personally working on a [Productivity App](https://github.com/michaelballos/journal-app-prisma-database-express-api)
+- 👨‍💻 I’m personally working on a [Blog App](https://github.com/michaelballos/michaelballos.github.io)
 
 - 🌱 I’m currently learning [Graphql](https://graphql.org/) and [Prisma](https://www.prisma.io/)
 
