@@ -16,8 +16,6 @@
 ![](https://skyline.github.com/michaelballos/2021)
 ![](./profile-3d-contrib/profile-night-rainbow.svg)
  
-<p align="center"><a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=michaelballos&theme=onestar" alt="michaelballos" /></a></p>
-  
 <img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=michaelballos&theme=highcontrast" alt="michaelballos" />
 
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=michaelballos&show_icons=true&theme=highcontrast" alt="michaelballos" />
@@ -98,6 +96,9 @@
   <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/>
 </a> 
 </p>
+ 
+ <p align="center"><a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=michaelballos&theme=onestar" alt="michaelballos" /></a></p>
+  
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
