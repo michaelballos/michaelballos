@@ -2,10 +2,6 @@
 <h3 align="center">Particle Space Intern in Kansas City, MO
 
 <p align="center"><a href="https://twitter.com/michael_ballos" target="blank"><img src="https://img.shields.io/twitter/follow/michael_ballos?logo=twitter&style=for-the-badge" alt="michael_ballos" /></a></p>
-  
- ![](./profile-3d-contrib/profile-green-animate.svg)
-
-<p align="center"><a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=michaelballos&theme=onestar" alt="michaelballos" /></a></p>
 
 - 👯 I’m currently collaborating on [Electa API](https://github.com/electa-api)
 
@@ -17,6 +13,10 @@
 
 - 📫 Reach me at **ballos.michael@gmail.com**
 
+![](./profile-3d-contrib/profile-green-animate.svg)
+ 
+<p align="center"><a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=michaelballos&theme=onestar" alt="michaelballos" /></a></p>
+  
 <img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=michaelballos&theme=highcontrast" alt="michaelballos" />
 
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=michaelballos&show_icons=true&theme=highcontrast" alt="michaelballos" />
