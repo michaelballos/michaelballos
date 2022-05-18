@@ -4,7 +4,7 @@
 <br></br>
 <p align="center"><a href="https://twitter.com/michael_ballos" target="blank"><img src="https://img.shields.io/twitter/follow/michael_ballos?logo=twitter&style=for-the-badge" alt="michael_ballos" /></a></p>
 
- 👯 I’m currently collaborating on [Hello & Co.](https://github.com/helloandco)
+ 👯 I’m currently collaborating on [Electa API](https://github.com/electa-api)
 
  👨‍💻 I’m personally working on a [Blog App](https://github.com/michaelballos/michaelballos.github.io)
 
