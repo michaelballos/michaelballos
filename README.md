@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Michael</h1>
 
 <p align="center"><a href="https://twitter.com/michael_ballos" target="blank"><img src="https://img.shields.io/twitter/follow/michael_ballos?logo=twitter&style=for-the-badge" alt="michael_ballos" /></a></p>
-
+<div align="center">
  👯 I’m currently collaborating on [Electa API](https://github.com/electa-api)
 
  👨‍💻 I’m personally working on a [Blog App](https://github.com/michaelballos/michaelballos.github.io)
@@ -11,6 +11,7 @@
  ⚡ An example of my [dev skills](https://www.michaelballos.me)
 
  📫 Reach me at **ballos.michael@gmail.com**
+ </div>
  <br></br>
  
  ![](./profile-3d-contrib/profile-night-rainbow.svg)
