@@ -1,5 +1,7 @@
 <h1 align="center">Hi 👋, I'm Michael</h1>
 
+<p align="center">Particle Space KCMO</p>
+
 <p align="center"><a href="https://twitter.com/michael_ballos" target="blank"><img src="https://img.shields.io/twitter/follow/michael_ballos?logo=twitter&style=for-the-badge" alt="michael_ballos" /></a></p>
 
 <div align="center">
