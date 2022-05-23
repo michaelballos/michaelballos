@@ -8,11 +8,9 @@
 
  👯 I’m currently collaborating on [Electa API](https://github.com/electa-api)
 
- 👨‍💻 I’m work on my website when I have time [Repo](https://github.com/michaelballos/michaelballos.github.io)
+ 👨‍💻 I’m work on my website when I have time [Check it out](https://www.michaelballos.me)
 
  🌱 Full Stack developer with [Graphql](https://graphql.org/) and [Prisma](https://www.prisma.io/)
-
- ⚡ An example of my [dev skills](https://www.michaelballos.me)
 
  📫 Reach me at **ballos.michael@gmail.com**
  
