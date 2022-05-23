@@ -10,7 +10,7 @@
 
  👨‍💻 I’m work on my website when I have time [Check it out](https://www.michaelballos.me)
 
- 🌱 Full Stack developer with [Graphql](https://graphql.org/) and [Prisma](https://www.prisma.io/)
+ 🌱 Full Stack development with [Graphql](https://graphql.org/) and [Prisma](https://www.prisma.io/)
 
  📫 Reach me at **ballos.michael@gmail.com**
  
