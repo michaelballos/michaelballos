@@ -7,10 +7,12 @@
 <div align="center">
 
  👯 I’m currently collaborating on [Electa API](https://github.com/electa-api)
+ 
+ 🫥 My current project is an Archillect crawler [Archillect](https://github.com/michaelballos/archillect)
+ 
+ 👨‍💻 I work on my website on rare occasions [Check it out](https://www.michaelballos.me)
 
- 👨‍💻 I’m work on my website when I have time [Check it out](https://www.michaelballos.me)
-
- 🌱 Full Stack development with [Graphql](https://graphql.org/) and [Prisma](https://www.prisma.io/)
+ 🌱 Full Stack developer
 
  📫 Reach me at **ballos.michael@gmail.com**
  
