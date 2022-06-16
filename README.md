@@ -8,7 +8,7 @@
 
  👯 I’m currently collaborating on [Electa API](https://github.com/electa-api)
  
- 🫥 My current project is an Archillect crawler [Archillect](https://github.com/michaelballos/archillect)
+ 🫥 My current project is a typescript UI library [Tundurus](https://github.com/thundurusdev)
  
  👨‍💻 I work on my website on rare occasions [Check it out](https://www.michaelballos.me)
 
