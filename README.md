@@ -10,6 +10,8 @@
  
  🫥 My current project is a typescript UI library [Tundurus](https://github.com/thundurusdev)
  
+ 📸 Helping build a brand [JN](https://github.com/ngynjohn)
+ 
  👨‍💻 I work on my website on rare occasions [Check it out](https://www.michaelballos.me)
 
  🌱 Full Stack developer
