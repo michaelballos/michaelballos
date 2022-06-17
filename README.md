@@ -6,15 +6,13 @@
 
 <div align="center">
 
- 👯 I’m currently collaborating on [Electa API](https://github.com/electa-api)
- 
- 🫥 My current project is a typescript UI library [Tundurus](https://github.com/thundurusdev)
+ 🫥 My current project is a Typescript UI library [Tundurus](https://github.com/thundurusdev)
  
  📸 Helping build a brand [JN](https://github.com/ngynjohn)
  
  👨‍💻 I work on my website on rare occasions [Check it out](https://www.michaelballos.me)
 
- 🌱 Full Stack developer
+ 🌱 Full Stack developer when I need to be
 
  📫 Reach me at **ballos.michael@gmail.com**
  
