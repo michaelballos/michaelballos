@@ -6,7 +6,7 @@
 
 <div align="center">
 
- 🫥 My current project is a Typescript UI library [Tundurus](https://github.com/thundurusdev)
+ 🫥 Currently working on a UI component library called [Tundurus](https://github.com/thundurusdev)
  
  📸 Helping build a brand [JN](https://github.com/ngynjohn)
  
