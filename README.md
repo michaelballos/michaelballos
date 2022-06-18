@@ -12,7 +12,7 @@
  
  👨‍💻 I work on my website on rare occasions [Check it out](https://www.michaelballos.me)
 
- 🌱 Full Stack developer when I need to be
+ 🌱 Increasing my stack
 
  📫 Reach me at **ballos.michael@gmail.com**
  
