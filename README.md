@@ -16,11 +16,11 @@
 
  📫 Best way to reach me in order: 
  
- ```Twitter DM:``` [@michael_ballos](https://www.twitter.com/michael_ballos)
+ - ```Twitter DM:``` [@michael_ballos](https://www.twitter.com/michael_ballos)
  
- ```Discord:``` kr0wd#5726
+ - ```Discord:``` kr0wd#5726
  
- ```Email:``` **ballos.michael@gmail.com**
+ - ```Email:``` **ballos.michael@gmail.com**
  
  </div>
  <br></br>
