@@ -14,7 +14,7 @@
 
  🌱 Increasing my stack
 
- 📫 Reach me at **ballos.michael@gmail.com**
+ 📫 Best way to reach me is a DM [@michael_ballos](https://www.twitter.com/michael_ballos) or reach me at **ballos.michael@gmail.com**
  
  </div>
  <br></br>
