@@ -10,7 +10,7 @@
  
  📸 Helping build a brand [JN](https://github.com/ngynjohn)
  
- 👨‍💻 I work on my website on rare occasions [Outdated](https://www.michaelballos.me)
+ 👨‍💻 Recently updated my site at [michaelballos.me](https://www.michaelballos.me)
 
  🌱 Increasing my stack
 
