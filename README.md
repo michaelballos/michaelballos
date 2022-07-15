@@ -12,10 +12,10 @@
  
  <details>
  <summary>
-   📫 Best ways to reach me: 
+   📫 Best ways to contact me: 
  </summary>
  
-  - ```DM:``` [@michael_ballos](https://www.twitter.com/michael_ballos)
+  - ```Twitter DM:``` [@michael_ballos](https://www.twitter.com/michael_ballos)
  
   - ```Discord:``` kr0wd#5726
  
