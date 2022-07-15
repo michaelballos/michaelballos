@@ -4,33 +4,39 @@
 
 <p align="center"><a href="https://twitter.com/michael_ballos" target="blank"><img src="https://img.shields.io/twitter/follow/michael_ballos?logo=twitter&style=for-the-badge" alt="michael_ballos" /></a></p>
 
-<div align="center">
+<div>
 
- 🫥 Currently working on a UI component library called [Tundurus](https://github.com/thundurusdev)
- 
- 📸 Helping build a brand [JN](https://github.com/ngynjohn)
- 
  👨‍💻 I do my best to update my site at [michaelballos.me](https://www.michaelballos.me)
 
- 🌱 Increasing my stack
-
- 📫 Best ways to reach me: 
+ 🧪 Currently working on a small [Component Library](https://github.com/github-projects-board) for my website
  
-  ```DM:``` [@michael_ballos](https://www.twitter.com/michael_ballos)
+ <details>
+ <summary>
+   📫 Best ways to reach me: 
+ </summary>
  
-  ```Discord:``` kr0wd#5726
+  - ```DM:``` [@michael_ballos](https://www.twitter.com/michael_ballos)
  
-  ```Email:``` **ballos.michael@gmail.com**
+  - ```Discord:``` kr0wd#5726
  
+  - ```Email:``` **ballos.michael@gmail.com**
+ 
+ </details>
  </div>
  <br></br>
  
  ![](./profile-3d-contrib/profile-night-rainbow.svg)
- 
-<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=michaelballos&theme=highcontrast" alt="michaelballos" />
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=michaelballos&show_icons=true&theme=highcontrast" alt="michaelballos" />
+
+<div align="center">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=michaelballos&theme=highcontrast" alt="michaelballos" />
+<img src="https://github-readme-stats.vercel.app/api?username=michaelballos&show_icons=true&theme=highcontrast" alt="michaelballos" />
+</div>
 <br></br>
-<p align="center"><a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=michaelballos&theme=onestar" alt="michaelballos" /></a></p>
+<p align="center">
+ <a href="https://github.com/ryo-ma/github-profile-trophy">
+  <img src="https://github-profile-trophy.vercel.app/?username=michaelballos&theme=onestar" alt="michaelballos" />
+ </a>
+</p>
  
 <h3 align="left">Connect with me:</h3>
 <p align="left">
