@@ -4,11 +4,16 @@
 
 <p align="center"><a href="https://twitter.com/michael_ballos" target="blank"><img src="https://img.shields.io/twitter/follow/michael_ballos?style=social?labelColor=1e2a3a" alt="michael_ballos" /></a></p>
 
-<div>
-
- 👨‍💻 I do my best to update my site at [michaelballos.me](https://www.michaelballos.me)
-
- 🧪 Currently working on a small [Component Library](https://github.com/github-projects-board) for my website
+<table>
+ <tr>
+ <td>
+<a href="https://app.daily.dev/michaelballos"><img src="https://api.daily.dev/devcards/c2b729174bc24e72a3a0d6d57964543b.png?r=osm" width="250" alt="Michael Ballos's Dev Card"/></a>
+</td>
+  <td>
+  
+   👨‍💻 I do my best to update my site at [michaelballos.me](https://www.michaelballos.me)
+   
+   🧪 Currently working on a small [Component Library](https://github.com/github-projects-board) for my website
  
  <details>
  <summary>
@@ -20,9 +25,11 @@
   - ```Discord:``` kr0wd#5726
  
   - ```Email:``` **ballos.michael@gmail.com**
- 
  </details>
- </div>
+</td>
+
+</tr>
+</table>
  <br></br>
 
 ![](./profile-3d-contrib/profile-night-rainbow.svg)
