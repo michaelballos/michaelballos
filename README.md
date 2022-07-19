@@ -1,3 +1,4 @@
+
 <h1 align="center">Hi 👋, I'm Michael</h1>
 
 <p align="center">Particle Space KCMO</p>
@@ -30,7 +31,6 @@
 
 </tr>
 </table>
- <br></br>
 
 ![](./profile-3d-contrib/profile-night-rainbow.svg)
 ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=michaelballos&bg_color=1d2a3a&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true)
