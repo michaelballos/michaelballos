@@ -14,7 +14,20 @@
   
    👨‍💻 I do my best to update my site at [michaelballos.me](https://www.michaelballos.me)
    
-   🧪 Currently working on a small [Component Library](https://github.com/github-projects-board) for my website
+   <details>
+   <summary>
+   🧪 Currently on that grind 🦾 here are some work in progress: 
+   </summary>
+   
+   [Design Patterns](https://github.com/michaelballos/design-patterns)
+   
+   [Component Library](https://github.com/github-projects-board)
+   
+   [GH Projects Component](https://github.com/github-projects-board)
+   
+   [JN](https://github.com/ngynjohn)
+ 
+ </details>
  
  <details>
  <summary>
