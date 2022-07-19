@@ -7,7 +7,7 @@
 <table>
  <tr>
  <td>
-<a href="https://app.daily.dev/michaelballos"><img src="https://api.daily.dev/devcards/c2b729174bc24e72a3a0d6d57964543b.png?r=osm" width="250" alt="Michael Ballos's Dev Card"/></a>
+<a href="https://app.daily.dev/michaelballos"><img src="https://api.daily.dev/devcards/c2b729174bc24e72a3a0d6d57964543b.png?r=osm" width="200" alt="Michael Ballos's Dev Card"/></a>
 </td>
   <td>
   
