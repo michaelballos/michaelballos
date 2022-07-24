@@ -5,13 +5,14 @@
 
 <table align="center">
  <tr>
- <td>
-<a href="https://app.daily.dev/michaelballos"><img src="https://api.daily.dev/devcards/c2b729174bc24e72a3a0d6d57964543b.png?r=osm" width="200" alt="Michael Ballos's Dev Card"/></a>
-</td>
-  <td>
-  
+  <td align="center">
+   
    👨‍💻 [michaelballos.me](https://www.michaelballos.me)
    
+  </td>
+ </tr>
+ <tr>
+  <td>
    <details>
    <summary>
    🧪 Open for a surprise!
@@ -23,17 +24,15 @@
  
  </details>
  
- <details>
- <summary>
+ <div>
    📫 Best ways to contact me: 
- </summary>
+ </div>
  
   - ```Twitter DM:``` [@michael_ballos](https://www.twitter.com/michael_ballos)
  
   - ```Discord:``` kr0wd#5726
  
   - ```Email:``` **ballos.michael@gmail.com**
- </details>
 </td>
 
 </tr>
