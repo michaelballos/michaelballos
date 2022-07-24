@@ -10,11 +10,11 @@
 </td>
   <td>
   
-   👨‍💻 I do my best to update my site at [michaelballos.me](https://www.michaelballos.me)
+   👨‍💻 [michaelballos.me](https://www.michaelballos.me)
    
    <details>
    <summary>
-   🧪 Open for a surprise!: 
+   🧪 Open for a surprise!
    </summary>
    
    <div>
