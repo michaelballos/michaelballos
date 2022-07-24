@@ -1,8 +1,6 @@
 
 <h1 align="center">Hi 👋, I'm Michael</h1>
 
-<p align="center">Particle Space KCMO</p>
-
 <p align="center"><a href="https://twitter.com/michael_ballos" target="blank"><img src="https://img.shields.io/twitter/follow/michael_ballos?style=social?labelColor=1e2a3a" alt="michael_ballos" /></a></p>
 
 <table align="center">
