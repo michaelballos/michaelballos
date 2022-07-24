@@ -14,7 +14,7 @@
    
    <details>
    <summary>
-   🧪 Currently on that grind 🦾 here are some work in progress: 
+   🧪 Here are some work in progress: 
    </summary>
    
    [Design Patterns](https://github.com/michaelballos/design-patterns)
