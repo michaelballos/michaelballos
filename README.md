@@ -14,16 +14,12 @@
    
    <details>
    <summary>
-   🧪 Here are some work in progress: 
+   🧪 Open for a surprise!: 
    </summary>
    
-   [Design Patterns](https://github.com/michaelballos/design-patterns)
-   
-   [Component Library](https://github.com/github-projects-board)
-   
-   [GH Projects Component](https://github.com/github-projects-board)
-   
-   [JN](https://github.com/ngynjohn)
+   <div>
+    What a waste of a click
+   </div>
  
  </details>
  
