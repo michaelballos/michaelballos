@@ -13,7 +13,7 @@
     🧪 Open for a surprise!
   </summary>
   <div>
-    What a waste of a click
+    Surprise!
   </div>
 </details>
  
