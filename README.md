@@ -20,12 +20,14 @@
  <div>
    📫 Best ways to contact me: 
  </div>
-
+ 
+  ```$ Email:``` **ballos.michael@gmail.com**
+  
   ```$ Twitter DM:``` [@michael_ballos](https://www.twitter.com/michael_ballos)
  
   ```$ Discord:``` kr0wd#5726
  
-  ```$ Email:``` **ballos.michael@gmail.com**
+  
 
 ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=michaelballos&bg_color=1d2a3a&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true)
 
