@@ -7,25 +7,14 @@
 </h1>
 
 <p align="center"><a href="https://twitter.com/michael_ballos" target="blank"><img src="https://img.shields.io/twitter/follow/michael_ballos?style=social?labelColor=1e2a3a" alt="michael_ballos" /></a></p>
+ 
+ 📫 Contact me: 
 
-<details>
-  <summary>
-    🧪 Open for a surprise!
-  </summary>
-  <div>
-    Surprise!
-  </div>
-</details>
+ ```Phone``` <a href="tel:+17202779101">(720) 277-9101‬</a>
  
- <div>
-   📫 Best ways to contact me: 
- </div>
+  ```Email``` **ballos.michael@gmail.com**
  
-  ```$ Email:``` **ballos.michael@gmail.com**
-  
-  ```$ Twitter DM:``` [@michael_ballos](https://www.twitter.com/michael_ballos)
- 
-  ```$ Discord:``` kr0wd#5726
+  ```Discord``` kr0wd#5726
  
   
 
