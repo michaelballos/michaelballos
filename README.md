@@ -8,6 +8,8 @@
 
 <p align="center"><a href="https://twitter.com/michael_ballos" target="blank"><img src="https://img.shields.io/twitter/follow/michael_ballos?style=social?labelColor=1e2a3a" alt="michael_ballos" /></a></p>
  
+ ### Frontend developer during the day. Full-Stack Software Engineer at night.
+
  📫 Contact me: 
 
  ```Phone``` <a href="tel:+17202779101">(720) 277-9101‬</a>
