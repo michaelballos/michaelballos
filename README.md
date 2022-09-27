@@ -6,6 +6,10 @@
 </a>
 </h1>
 
+<p align="center">
+ ⚠️ Portfolio Outdated: Engineer in review may be more skilled than they appear 💡 
+</p>
+
 <p align="center"><a href="https://twitter.com/michael_ballos" target="blank"><img src="https://img.shields.io/twitter/follow/michael_ballos?style=social?labelColor=1e2a3a" alt="michael_ballos" /></a></p>
 
  📫 Contact: 
