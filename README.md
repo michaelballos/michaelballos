@@ -8,8 +8,8 @@
 
 <p align="center"><a href="https://twitter.com/michael_ballos" target="blank"><img src="https://img.shields.io/twitter/follow/michael_ballos?style=social?labelColor=1e2a3a" alt="michael_ballos" /></a></p>
 
+**Full Stack Typescript**
   
-
  ```Phone``` <a href="tel:3162262223">316-226-2223‬</a>
  
   ```Email``` **ballos.michael@gmail.com**
