@@ -1,9 +1,8 @@
 
 <h1 align="center">
 👨‍💻
-<a href="https://www.michaelballos.me" target="_blank">
+
  michaelballos
-</a>
 </h1>
 
   
